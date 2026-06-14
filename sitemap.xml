@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
+    <loc>https://resekschrothig.github.io/china-esim-guide/sitemap.xml</loc>
+    <lastmod>2026-06-14T00:00:00Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://resekschrothig.github.io/hong-kong-esim-china-usable/sitemap.xml</loc>
+    <lastmod>2026-06-14T00:00:00Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://resekschrothig.github.io/china-esim-hotspot-sharing-guide/sitemap.xml</loc>
+    <lastmod>2026-06-14T00:00:00Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://resekschrothig.github.io/hong-kong-number-esim-sms-guide/sitemap.xml</loc>
+    <lastmod>2026-06-14T00:00:00Z</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://resekschrothig.github.io/esimka-cinematic-blackbox/sitemap.xml</loc>
     <lastmod>2026-06-13T03:53:47Z</lastmod>
   </sitemap>

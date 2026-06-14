@@ -10,6 +10,11 @@
 
 ## 当前收录主题
 
+- 中国 eSIM
+- 中国内地可用的 eSIM
+- 香港 eSIM 在中国能用吗
+- 中国 eSIM 热点共享
+- 中国 eSIM 接短信 / 香港号码 eSIM
 - eSIM 国际网络与中国内地使用
 - eSIM 替代 VPN / 梯子的稳定性研究
 - 香港 IP eSIM 与原生 IP 场景
